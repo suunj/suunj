@@ -1,5 +1,4 @@
 ## 천승주
-#
 
 <!--
 **jc3wrld999/jc3wrld999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,11 +22,11 @@ Here are some ideas to get you started:
 - 정보처리산업기사
 
 ## 기술스택
-#
+
 ✨ Backend
 
 ## 경력
-#
+
 
 | **기간** | **직장명(소재지)** | **근무부서명** | **직위** | **담당업무 및 업무실적** |
 | --- | --- | --- | --- | --- |
