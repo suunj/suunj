@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="mailto:jc3wrld999@gmail.com">jc3wrld999@gmail.com</a> <br/>
-[jc3wrld999.tistory.com](https://jc3wrld999.tistory.com/)
+[1000sj.tistory.com](https://1000sj.tistory.com/)
 
 
 - 컴퓨터 공학사
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | :----: | --- | --- | --- | --- |
 | 2019.08 ~ 2020.06 | 콘시드(부산) | 연구소 | 사원 | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)<br/>눈높이를 대신할 어린이 과외프로젝트를 수행하였습니다. 요구사항정의서를 받아 분석하고 디자인 과 퍼블리싱이 나오면 기능을 입혀 qa에게 단위테스트를 받아 이슈를 처리하는 워크 플로우를 수행했습니다. 프로젝트에서는 게시판을 만드는 일을 주로 했었습니다. 게시판에서 구현되는 기능은 회원가입, 로그인, 로그아웃, 글 조회, 글 작성, 글 수정, 글 삭제, 페이징, 파일 업로드, 파일 다운로드 등입니다. 전자정부프레임워크를 사용했고 MVC 패턴(controller, service, mapper 인터페이스, SQL map xml)을 따라 crud 를 수행했습니다. 웹서버는 dev 에서는 resin을 사용했고 local 에서는 tomcat 을 사용했습니다. 템플릿엔진은 jsp를 사용하여 서버에서 받은 데이터를 뷰에 뿌려줬고 jquery, ajax, 다양한 ui 라이브러리 등 javascript를 주로 다뤘습니다. db 는 mybatis 를 사용하여 mapper 에 쿼리를 작성했고 mssql에 함수를 등록해서 중복 쿼리를 최소화하는 작업을 수행했고 프로시저는 작성하지는 않았고 이미 대교에서 쓰이는 프로시저를 사용하는 정도만 했습니다. 배포는 jenkins 로 했습니다. 소스 형상관리 툴은 svn, git 둘 다 써봤습니다.
 | 2022.05 ~ | 유비퍼스트대원 | 연구소 | 사원 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)<br/>차량관제 단말기 회사로 단말기와의 데이터 전송업무를 수행했습니다. 단말기에서 보내는 신호를 받아 화면에 뿌려주는 일이나 단말기가 요청을 보내고 응답을 받을 수 있는 테스트 api 를 만드는 일이라 데이터의 실시간 처리와 쿼리의 성능등이 중요한 업무였습니다. spring boot 프레임워크를 사용했고 웹서버는 spring boot 내장 tomcat을 튜닝하여 사용하였습니다. 템플릿엔진은 타임리프를 사용했습니다. DB 는 RDB 인 mariadb 와 nosql 인 cassandra db 를 사용했고 jpa와 mybatis를 혼용해서 사용했고 주로 배치를 돌려 데이터를 가져오거나 리스너를 붙여 비동기로 가져오는 실시간 처리, 쿼리를 로그로 남기는 작업을 했습니다. 배포는 centos 서버에서 dockerfile 을 생성해서 nginx 로 ssl 처리를 하고 jenkins 서버에 올렸습니다. Api 테스트는 postman으로 했습니다.
-|  |||||
+| 
 
 ## 개인 프로젝트
 
@@ -76,9 +76,7 @@ Here are some ideas to get you started:
 
 - 블록체인
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 
 ## 그 외 경험
 
