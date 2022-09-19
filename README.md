@@ -25,27 +25,15 @@ Here are some ideas to get you started:
 ## 기술스택
 
 ✨ Backend
+✨ 
 
 ## 경력
 
 
-| **기간** | **직장명(소재지)** | **근무부서명** | **직위** | **담당업무 및 업무실적** |
-| :----: | --- | --- | --- | --- |
-| 2019.08 ~ 2020.06 | 콘시드(부산) | 연구소 | 사원 | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)<br/>어린이 과외사이트를 개발하였습니다.<br/>
-프로젝트에서는 게시판을 만드는 일을 주로 했었습니다.<br/>
-게시판에서 구현되는 기능은 회원가입, 로그인, 로그아웃, 글 조회, 글 작성, 글 수정, 글 삭제, 페이징, 파일 업로드, 파일 다운로드 등입니다.<br/>
-<br/><br/>
-포지션<br/>
-프론트엔드, 백엔드<br/>
-<br/><br/>
-기술스택<br/>
-전자정부프레임워크, Resin, TOMCAT, Jenkins, svn, Git,<br/>
-MSSQL, Mybatis,<br/>
-Java, jsp servlet, javascript, jquery, bootstrap,<br/>
-Eclipse, VsCode<br/>
-프로젝트 : macadamia 어린이 과외사이트<br/>
-| 2022.05 ~ | 유비퍼스트대원 | 연구소 | 사원 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)<br/>차량관제 단말기 회사로 단말기와의 데이터 전송업무를 수행했습니다. 단말기에서 보내는 신호를 받아 화면에 뿌려주는 일이나 단말기가 요청을 보내고 응답을 받을 수 있는 테스트 api 를 만드는 일이라 데이터의 실시간 처리와 쿼리의 성능등이 중요한 업무였습니다. spring boot 프레임워크를 사용했고 웹서버는 spring boot 내장 tomcat을 튜닝하여 사용하였습니다. 템플릿엔진은 타임리프를 사용했습니다. DB 는 RDB 인 mariadb 와 nosql 인 cassandra db 를 사용했고 jpa와 mybatis를 혼용해서 사용했고 주로 배치를 돌려 데이터를 가져오거나 리스너를 붙여 비동기로 가져오는 실시간 처리, 쿼리를 로그로 남기는 작업을 했습니다. 배포는 centos 서버에서 dockerfile 을 생성해서 nginx 로 ssl 처리를 하고 jenkins 서버에 올렸습니다. Api 테스트는 postman으로 했습니다.
-| 
+| 기간 | 직장명 | 근무부서명 | 직위 | 담당업무 및 업무실적 |
+| --- | --- | --- | --- | --- |
+| 2019.08 ~ 2020.06 | 콘시드(부산) | 연구소 | 사원 | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) 어린이 과외사이트를 개발하였습니다. 프로젝트에서는 게시판을 만드는 일을 주로 했었습니다. 게시판에서 구현되는 기능은 회원가입, 로그인, 로그아웃, 글 조회, 글 작성, 글 수정, 글 삭제, 페이징, 파일 업로드, 파일 다운로드 등입니다.  프로젝트 : [macadamia 어린이 과외사이트](https://www.rocketpunch.com/@jc3wrld999/resume#projects) |
+| 2022.05 ~ | 유비퍼스트대원 | 연구소 | 사원 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) 차량관제 단말기 회사에서 단말기와의 데이터 처리 업무 담당 단말기에서 보내는 데이터를 DB에 저장하는 일이나 DB에 저장된 로그 데이터를 화면에 뿌려주는 일, 단말기가 요청을 보내고 응답을 받을 수 있는 테스트 api 를 만드는 일등을 수행했습니다.  |
 
 ## 개인 프로젝트
 
@@ -96,7 +84,6 @@ Eclipse, VsCode<br/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-- 
 
 
 
