@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="mailto:jc3wrld999@gmail.com">jc3wrld999@gmail.com</a> <br/>
-[1000sj.tistory.com](https://1000sj.tistory.com/)
+[velog](https://velog.io/@jc3wrld999)
 
 
 - 컴퓨터 공학사
