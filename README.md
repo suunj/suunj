@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="mailto:jc3wrld999@gmail.com">jc3wrld999@gmail.com</a> <br/>
-[velog](https://velog.io/@jc3wrld999)
+<a href="mailto:jc3wrld999@gmail.com">gmail</a> <br/>
+[공부 블로그](https://meeseeks.tistory.com/)
 
 
 - 컴퓨터 공학사
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ## 기술스택
 
 ✨ Backend
-✨ 
 
 ## 경력
 
@@ -71,11 +70,11 @@ Here are some ideas to get you started:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) -->
 
-- 블록체인
+<!-- - 블록체인
 
 | **이름** | **기술스택** |
 | --- | --- |
-|  | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  |
+|  | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  | -->
 
 
 
