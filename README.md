@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="mailto:jc3wrld999@gmail.com">gmail</a> <br/>
+<a href="mailto:jc3wrld999@gmail.com">Gmail</a> <br/>
+[Twitter](https://twitter.com/jc3wrld999) <br/>
+[Facebook](https://www.facebook.com/profile.php?id=100081279302177) <br/>
 [공부 블로그](https://meeseeks.tistory.com/)
 
 
