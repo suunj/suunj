@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 [블로그](https://meeseeks.tistory.com/)
 
 
-## 기술스택
+## 포지션
 
 ✨ Backend
+
 
 ## 경력
 
