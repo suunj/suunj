@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 포지션
 
-✨ Backend
+- Backend
 
 
 ## 경력
