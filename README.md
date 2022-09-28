@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## TODO
 
-- python 크롤링 bot
+- python 업무 자동화
 
 | **이름** | **기술스택** |
 | --- | --- |
