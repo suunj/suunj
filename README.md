@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="mailto:jc3wrld999@gmail.com">Gmail</a> <br/>
+[velog](https://velog.io/@jc3wrld999)
 [Twitter](https://twitter.com/jc3wrld999) <br/>
 [Facebook](https://www.facebook.com/profile.php?id=100081279302177) <br/>
-[블로그](https://meeseeks.tistory.com/)
 
 
 ## 포지션
