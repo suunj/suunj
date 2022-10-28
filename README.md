@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 | --- | --- |
 | 포켓몬도감 | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) |
 
-<!-- ## TODO
+<!--  ## TODO
 
 - python 업무 자동화
 
@@ -65,12 +65,9 @@ Here are some ideas to get you started:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) -->
 
- - 블록체인
 
-| **이름** | **기술스택** |
-| --- | --- |
-|  | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  | 
- -->
+
+
 
 
 ## 그 외 경험
@@ -78,6 +75,7 @@ Here are some ideas to get you started:
 - 컴퓨터 공학사
 - 정보처리산업기사
 - [Daily Leetcode](https://github.com/jc3wrld999/LeetCode)
+- [kaggle](https://www.kaggle.com/jc3wrld999)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
