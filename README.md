@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ## 그 외 경험
 
 - 컴퓨터 공학사
-- 정보처리산업기사
+- 정보처리기사
 - [Daily Leetcode](https://github.com/jc3wrld999/LeetCode)
 - [kaggle](https://www.kaggle.com/jc3wrld999)
 
