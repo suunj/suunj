@@ -1,16 +1,14 @@
 
 <h1 align="center"><a href="https://jc3wrld999.github.io/">About Me</a></h1>
+
 <!--Social Channel-->
 <p align="center">
   <a href="https://meeseeks.tistory.com/"><img src="https://img.shields.io/badge/ML%20Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
-    <a href="https://www.rocketpunch.com/@jc3wrld999"><img src="https://img.shields.io/badge/rocket punch%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=Rocketpuch&amp;logoColor=white" alt="RocketPunch"></a>
-  <a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
-    <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-    <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/velog-63E6BE.svg?style=for-the-badge&amp;logo=Velog&amp;logoColor=white&amp;" alt="Velog"></a>
+  <a href="https://www.rocketpunch.com/@jc3wrld999"><img src="https://img.shields.io/badge/rocket punch%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=Rocketpuch&amp;logoColor=white" alt="RocketPunch"></a>
+<a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
+  <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/velog-63E6BE.svg?style=for-the-badge&amp;logo=Velog&amp;logoColor=white&amp;" alt="Velog"></a>
   <a href="https://codesandbox.io/u/jc3wrld999"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"></a>
-<!--     <a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a> -->
-
-  
 </p>
 
 ## 천승주
@@ -18,21 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc3wrld999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jc3wrld999's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc3wrld999)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**jc3wrld999/jc3wrld999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## 포지션
@@ -58,31 +41,6 @@ Here are some ideas to get you started:
 | [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) |
 | [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) |
 
-<!--  ## TODO
-
-- python 업무 자동화
-
-| **이름** | **기술스택** |
-| --- | --- |
-| snuffles | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) |
-
-
-- three.js로 3D 프로젝트
-
-| **이름** | **기술스택** |
-| --- | --- |
-| stella | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=style=flat-squarelogo=webgl&logoColor=white&style=for-the-badge) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) |
-
-
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-
-
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) -->
 
 
 
