@@ -1,7 +1,5 @@
 ## 천승주
 
-- 컴퓨터 공학
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -76,6 +74,7 @@ Here are some ideas to get you started:
 
 ## 그 외 경험
 
+- 컴퓨터 공학과
 - 정보처리기사
 - [Leetcode](https://leetcode.com/jc3wrld999/)
 - [Kaggle](https://www.kaggle.com/jc3wrld999)
