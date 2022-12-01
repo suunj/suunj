@@ -1,5 +1,17 @@
 
 <h1 align="center"><a href="https://jc3wrld999.github.io/">About Me</a></h1>
+<!--Social Channel-->
+<p align="center">
+  <a href="https://meeseeks.tistory.com/"><img src="https://img.shields.io/badge/ML%20Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
+    <a href="https://www.rocketpunch.com/@jc3wrld999"><img src="https://img.shields.io/badge/rocket punch%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=Rocketpuch&amp;logoColor=white" alt="RocketPunch"></a>
+  <a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
+    <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+    <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/velog-63E6BE.svg?style=for-the-badge&amp;logo=Velog&amp;logoColor=white&amp;" alt="Velog"></a>
+  <a href="https://codesandbox.io/u/jc3wrld999"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"></a>
+<!--     <a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a> -->
+
+  
+</p>
 
 ## 천승주
 
@@ -81,8 +93,8 @@ Here are some ideas to get you started:
 
 - 컴퓨터 공학과
 - 정보처리기사
-- [Leetcode](https://leetcode.com/jc3wrld999/)
-- [Kaggle](https://www.kaggle.com/jc3wrld999)
+<!-- - [Leetcode](https://leetcode.com/jc3wrld999/)
+- [Kaggle](https://www.kaggle.com/jc3wrld999) -->
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) -->
 
