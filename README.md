@@ -36,14 +36,15 @@
 
 | 프로젝트 | 기술스택 |
 | --- | --- |
-| [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) |
-| [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) |
+| [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter로 API Fetch 어플 개발 |
+| [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | 공공데이터 포털에서 서울시 버스 노선 API분석, Spring Boot로 시각화 |
 
 ## 기술스택
 
 <div>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776ab.svg?style=flat-square&logo=python&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/Python-3776ab.svg?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"> <br/>
@@ -52,7 +53,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white"> <br/>
   <img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
