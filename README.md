@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://jc3wrld999.github.io/">About Me</a></h1>
+<h1 align="center">About Me</h1>
 
 <!--Social Channel-->
 <p align="center">
