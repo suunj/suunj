@@ -1,5 +1,5 @@
-# <div style="text-align: center">About Me ✨</div>
 
+<h1 align="center"><a href="">About Me</a></h1>
 
 ## 천승주
 
