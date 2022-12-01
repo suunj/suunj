@@ -1,5 +1,7 @@
 ## 천승주
 
+- 컴퓨터 공학
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -74,10 +76,11 @@ Here are some ideas to get you started:
 
 ## 그 외 경험
 
-- 컴퓨터 공학사
 - 정보처리기사
-- [Daily Leetcode](https://github.com/jc3wrld999/LeetCode)
-- [kaggle](https://www.kaggle.com/jc3wrld999)
+- [Leetcode](https://leetcode.com/jc3wrld999/)
+- [Kaggle](https://www.kaggle.com/jc3wrld999)
+- [백준](https://www.acmicpc.net/user/meesiks)
+- [Velog](https://velog.io/@jc3wrld999)
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) -->
 
