@@ -27,14 +27,14 @@
 ## 경력
 
 
-| 기간 | 직장명 | 근무부서명 | 직위 | 기술스택 |
+| 기간 | 직장명 | 근무부서명 | 직위 | 담당업무 |
 | --- | --- | --- | --- | --- |
 | 2019.08 ~ 2020.06 | 콘시드 | 연구소 | 사원 | [전자정부프레임워크 웹사이트 개발](https://www.macadamia.kr/)  |
 | 2022.05 ~ 2022.11 | 유비퍼스트대원 | 연구소 | 사원 | Spring Boot로 단말기와의 요청 응답 Rest API 개발 및 gps 데이터 시각화 담당 |
 
 ## 개인 프로젝트
 
-| 프로젝트 | 기술스택 |
+| 프로젝트 | 내용 |
 | --- | --- |
 | [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter로 API Fetch 어플 개발 |
 | [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | 공공데이터 포털에서 서울시 버스 노선 API분석, Spring Boot로 시각화 |
