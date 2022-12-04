@@ -20,7 +20,7 @@
 
 ## 포지션
 
-- AI Engineer
+- Data Engineer
 - Backend
 
 
