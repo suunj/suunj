@@ -38,6 +38,8 @@
 | --- | --- |
 | [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter로 API Fetch 어플 개발 |
 | [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | 공공데이터 포털에서 서울시 버스 노선 API분석, Spring Boot로 시각화 |
+| [코로나 helpbot](https://github.com/jc3wrld999/covid-helpbot) | tensorflow로 [WHO](https://www.who.int/)에서 제공되는 데이터를 모델에 훈련시켜 답변을 예측 |
+
 
 ## 기술스택
 
