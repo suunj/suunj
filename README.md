@@ -5,7 +5,7 @@
 <p align="center">
 
   <a href="https://meeseeks.tistory.com/"><img src="https://img.shields.io/badge/ML%20Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
-  <a href="https://discord.gg/AbmJZpvs"><img src="https://img.shields.io/badge/Discord-3366cc.svg?&amp;style=for-the-badge&amp;logo=Discord&amp;logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/gBSKHXX3dp"><img src="https://img.shields.io/badge/Discord-3366cc.svg?&amp;style=for-the-badge&amp;logo=Discord&amp;logoColor=white" alt="Discord"></a>
 <a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
   <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/velog-63E6BE.svg?style=for-the-badge&amp;logo=Velog&amp;logoColor=white&amp;" alt="Velog"></a>
