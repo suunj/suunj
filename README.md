@@ -16,7 +16,7 @@
   <div align="center">
     <a href="#"><img alt="Jc3wrld999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jc3wrld999&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Jc3wrld999's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc3wrld999&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jc3wrld999&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+ 
 
   </div>
   
@@ -73,6 +73,8 @@
 - 물리학과(중퇴)
 - 컴퓨터 공학과(학사)
 - 정보처리기사
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jc3wrld999&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
 
 
 
