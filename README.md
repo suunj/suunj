@@ -9,19 +9,20 @@
   <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/velog-63E6BE.svg?style=for-the-badge&amp;logo=Velog&amp;logoColor=white&amp;" alt="Velog"></a>
   <a href="https://www.rocketpunch.com/@jc3wrld999"><img src="https://img.shields.io/badge/rocket punch%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=Rocketpuch&amp;logoColor=white" alt="RocketPunch"></a>
-  <a href="https://codesandbox.io/u/jc3wrld999"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"></a>
+  <a href="https://codepen.io/sjcoding"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white"></a>
 </p>
 
 ## 천승주
+  <div align="center">
+    <a href="#"><img alt="Jc3wrld999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jc3wrld999&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Jc3wrld999's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc3wrld999&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jc3wrld999&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc3wrld999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jc3wrld999's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc3wrld999)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  </div>
+  
 ## 포지션
 
-- Data Engineer
+- ML Engineer
 - Backend
 
 
@@ -30,8 +31,8 @@
 
 | 기간 | 직장명 | 근무부서명 | 직위 | 담당업무 |
 | --- | --- | --- | --- | --- |
-| 2019.08 ~ 2020.06 | 콘시드 | 연구소 | 사원 | [전자정부프레임워크 웹사이트 개발](https://www.macadamia.kr/)  |
 | 2022.05 ~ 2022.11 | 유비퍼스트대원 | 연구소 | 사원 | Spring Boot기반 Restful API 개발 및 GPS 데이터 시각화 담당 |
+| 2019.08 ~ 2020.06 | 콘시드 | 연구소 | 사원 | [전자정부프레임워크 웹사이트 개발](https://www.macadamia.kr/)  |
 
 ## 개인 프로젝트
 
@@ -40,6 +41,8 @@
 | [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter로 API Fetch 어플 개발 |
 | [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | 공공데이터 포털에서 서울시 버스 노선 API분석, Spring Boot로 시각화 |
 | [코로나 헬프봇](https://github.com/jc3wrld999/covid-helpbot) | tensorflow로 [WHO](https://www.who.int/)에서 제공되는 데이터를 모델에 훈련시켜 답변을 예측 |
+| [맛집 리뷰 감정 분석](https://github.com/jc3wrld999/restaurant-sentiment-analysis) | 맛집 리뷰 사이트를 크롤링하여 긍정, 부정 키워드 추출 |
+| [미래에 볼 영화 평점 예측](https://github.com/jc3wrld999/movie-rating-prediction) | 영화 리뷰 데이터를 분석하여 평가하지 않은 영화의 평점 예측 |
 
 
 ## 기술스택
