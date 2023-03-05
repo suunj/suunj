@@ -3,12 +3,10 @@
 
 <!--Social Channel-->
 <p align="center">
-  <a href="https://meeseeks.tistory.com/"><img src="https://img.shields.io/badge/ML%20Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
+  <a href="https://meeseeks.tistory.com/"><img src="https://img.shields.io/badge/Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
   <a href="https://discord.gg/gBSKHXX3dp"><img src="https://img.shields.io/badge/Discord-3366cc.svg?&amp;style=for-the-badge&amp;logo=Discord&amp;logoColor=white" alt="Discord"></a>
-<a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
+<a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode"></a>
   <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/velog-63E6BE.svg?style=for-the-badge&amp;logo=Velog&amp;logoColor=white&amp;" alt="Velog"></a>
-  <a href="https://www.rocketpunch.com/@jc3wrld999"><img src="https://img.shields.io/badge/rocket punch%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=Rocketpuch&amp;logoColor=white" alt="RocketPunch"></a>
   <a href="https://codepen.io/sjcoding"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white"></a>
 </p>
 
@@ -19,11 +17,6 @@
  
 
   </div>
-  
-## 포지션
-
-- ML Engineer
-- Backend
 
 
 ## 경력
@@ -48,17 +41,15 @@
 ## 기술스택
 
 <div>
+  <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776ab.svg?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"> <br/>
-  <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white"> 
+  
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"> <br/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> <br/>
-  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/android studio-FE7A16.svg?style=flat-square&logo=android-studio&logoColor=white">
+  
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
