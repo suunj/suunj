@@ -3,7 +3,7 @@
 
 <!--Social Channel-->
 <p align="center">
-  <a href="https://meeseeks.tistory.com/"><img src="https://img.shields.io/badge/Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
+  <a href="https://velog.io/@jc3wrld999"><img src="https://img.shields.io/badge/Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
   <a href="https://discord.gg/gBSKHXX3dp"><img src="https://img.shields.io/badge/Discord-3366cc.svg?&amp;style=for-the-badge&amp;logo=Discord&amp;logoColor=white" alt="Discord"></a>
 <a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode"></a>
   <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
