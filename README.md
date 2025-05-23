@@ -24,14 +24,6 @@
 - [[conntrack] iptables 정책 적용 후 기존 세션 남아있는 문제](https://1000sj.tistory.com/470)
 - [vrrp 장비 failover 시 sync 패킷 전송 중 panic 발생](https://1000sj.tistory.com/471)
 
-<!--Social Channel-->
-<p>
-  <a href="https://jc3wrld999.tistory.com/"><img src="https://img.shields.io/badge/Blog-ff6900.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
-  <a href="https://discord.gg/gBSKHXX3dp"><img src="https://img.shields.io/badge/Discord-3366cc.svg?&amp;style=for-the-badge&amp;logo=Discord&amp;logoColor=white" alt="Discord"></a>
-<a href="https://leetcode.com/jc3wrld999/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode"></a>
-  <a href="https://www.kaggle.com/jc3wrld999"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://codepen.io/sjcoding"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white"></a>
-</p>
 
 
 
