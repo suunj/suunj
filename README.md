@@ -10,13 +10,12 @@
 
 ## 개인 프로젝트
 
-| 프로젝트 | 내용 |
+| 프로젝트 | 기술 스택 |
 | --- | --- |
-| [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter로 API Fetch 어플 개발 |
-| [서울시 버스 노선도](https://github.com/jc3wrld999/vehicle-management-project) | 공공데이터 포털에서 서울시 버스 노선 API분석, Spring Boot로 시각화 |
-| [코로나 헬프봇](https://github.com/jc3wrld999/covid-helpbot) | tensorflow로 [WHO](https://www.who.int/)에서 제공되는 데이터를 모델에 훈련시켜 답변을 예측 |
-| [맛집 리뷰 감정 분석](https://github.com/jc3wrld999/restaurant-sentiment-analysis) | 맛집 리뷰 사이트를 크롤링하여 긍정, 부정 키워드 추출 |
-| [미래에 볼 영화 평점 예측](https://github.com/jc3wrld999/movie-rating-prediction) | 영화 리뷰 데이터를 분석하여 평가하지 않은 영화의 평점 예측 |
+|[WireGuard L2 VPN 기능 추가](https://github.com/jc3wrld999/wg-l2ext)|wireguard|
+|[Clang 기반 정적 분석 도구](https://github.com/jc3wrld999/ClangLintX)| llvm, clang |
+|[웹 기반 컨테이너 보안SSH 접속 시스템](https://github.com/jc3wrld999/GatePod)| k8s, golang |
+| [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter |
 
 
 ## TroubleShooting
