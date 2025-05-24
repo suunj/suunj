@@ -12,7 +12,7 @@
 
 | 프로젝트 | 기술 스택 |
 | --- | --- |
-|[WireGuard L2 VPN 기능](https://github.com/jc3wrld999/wg-l2ext)|wireguard|
+|[WireGuard L2 VPN 확장](https://github.com/jc3wrld999/wg-l2ext)|wireguard|
 |[Clang 기반 정적 분석 도구](https://github.com/jc3wrld999/ClangLintX)| llvm, clang |
 |[웹 기반 컨테이너 보안SSH 접속 시스템](https://github.com/jc3wrld999/GatePod)| k8s, golang |
 | [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter |
