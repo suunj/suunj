@@ -17,13 +17,12 @@
 |[웹 기반 컨테이너 보안SSH 접속 시스템](https://github.com/jc3wrld999/GatePod)| k8s, golang |
 | [포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter |
 
-
 ## TroubleShooting
 
 - [iptables 정책 적용 후 기존 세션 남아있는 문제 (netfilter + conntrack)](https://1000sj.tistory.com/470)
 - [vrrp 장비 failover 시 sync 패킷 전송 중 panic 발생](https://1000sj.tistory.com/471)
 - [패스워드 만료 시, ssh로 접속하여 패스워드 변경 기능 지원 요청 (dropbear)](https://1000sj.tistory.com/472)
-
+- [iptables rule 설정 시 SNAT 안되는 문제](https://1000sj.tistory.com/473)
 
 
 
