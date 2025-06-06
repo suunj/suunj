@@ -19,12 +19,12 @@
 
 ## TroubleShooting
 
-- [iptables 정책 적용 후 기존 세션 남아있는 문제 (netfilter + conntrack)](https://1000sj.tistory.com/470)
-- [vrrp 장비 failover 시 sync 패킷 전송 중 panic 발생](https://1000sj.tistory.com/471)
-- [SSH Connection Layer에 사용자 패스워드 만료 검증 로직 추가](https://1000sj.tistory.com/472)
+- [conntrack 세션을 이용한 iptables 최적화 및 관련 버그]([https://1000sj.tistory.com/470](https://sungzunet.blogspot.com/2025/06/conntrack-iptables.html))
+- [vrrp 장비 failover 시 sync 패킷 전송 중 panic 발생 오류](https://sungzunet.blogspot.com/2025/06/vrrp-failover-sync-panic.html)
+- [SSH Connection Layer에 사용자 패스워드 만료 검증 로직 추가](https://sungzunet.blogspot.com/2025/06/ssh-connection-layer.html)
 
 ## Exploit
-- [BPFDoor](https://1000sj.tistory.com/476)
+- [BPFDoor]()
 
 
 
