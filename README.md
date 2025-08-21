@@ -11,8 +11,7 @@
 | --- | --- |
 |[WireGuard L2 VPN 확장](https://github.com/jc3wrld999/wg-l2ext)|wireguard|
 |[Clang 기반 정적 분석 도구](https://github.com/jc3wrld999/ClangLintX)| llvm, clang |
-|[컨테이너 SSH 접속 서비스 플랫폼](https://github.com/jc3wrld999/GatePod)| k8s, golang |
-|[포켓몬 도감](https://github.com/jc3wrld999/poke-dex) | Flutter |
+|[CPU 기반 소프트웨어 rasterizer]| SIMD |
 
 ## TroubleShooting
 
