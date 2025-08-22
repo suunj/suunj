@@ -10,9 +10,11 @@
 
 | 프로젝트 | 기술 스택 |
 | --- | --- |
+|[Kprobes를 이용한 Linux Remote Tracing]()| Kprobes, perf |
 |[WireGuard L2 VPN 확장](https://github.com/jc3wrld999/wg-l2ext)|wireguard|
 |[Clang 기반 정적 분석 도구](https://github.com/jc3wrld999/ClangLintX)| llvm, clang |
-|[CPU 기반 소프트웨어 rasterizer]| SIMD |
+|[CPU 기반 소프트웨어 rasterizer]()| SIMD |
+
 
 ## TroubleShooting
 
