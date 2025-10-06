@@ -9,12 +9,11 @@
 
 | 프로젝트 | 기술 스택 |
 | --- | --- |
-|[LLVM Compiler]()| LLVM, MLIR, Clang |
 |[CPU Rasterizer]()| 3D Graphics, Optimization |
-|[GPU Raytracer]()| SIMD, AVX2, FMA |
+|[GPU Raytracer]()| SIMD, AVX2, FMA, LLVM |
 |[Kubernetes OVN Controller]()| Kubernetes, OVN |
-|[tiny kvm]()| KVM |
-|[container-without-docker]()| namespace, cgroups |
+|[tiny kvm]()| KVM API, Memory Mapping, x86 CPU mode, paging |
+|[container-without-docker]()| namespace, cgroups, process isolation |
 
 ## Fuzzing
 
