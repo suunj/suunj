@@ -18,6 +18,7 @@
 ## Fuzzing
 
 - [hacking on the Go runtime]()
-- [Using syzkaller to detect programming bugs in the Linux kernel]()
+- Using syzkaller to detect programming bugs in the Linux kernel
+  - [KASAN: slab-use-after-free in __xfrm_state_lookup]()
 
 
