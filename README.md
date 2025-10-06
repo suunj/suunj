@@ -12,7 +12,10 @@
 |[LLVM Compiler]()| LLVM, MLIR, Clang |
 |[CPU Rasterizer]()| 3D Graphics, Optimization |
 |[GPU Raytracer]()| SIMD, AVX2, FMA |
+|[Kubernetes OVN Controller]()| Kubernetes, OVN |
+|[tiny kvm]()| KVM |
 
 ## Fuzzing
 
-- 
+- [hacking on the Go runtime]()
+
