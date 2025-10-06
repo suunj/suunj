@@ -18,4 +18,6 @@
 ## Fuzzing
 
 - [hacking on the Go runtime]()
+- [Using syzkaller to detect programming bugs in the Linux kernel]()
+
 
