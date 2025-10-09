@@ -9,7 +9,7 @@
 
 | Project | Description | Skills |
 | --- | --- | --- |
-|[fluid-engine](https://github.com/qntm1331/fluid-engine)| A real-time fluid simulation engine powered by GPU computing | Vulkan, Shader, 3D Rendering  |
+|[fluid-engine](https://github.com/qntm1331/fluid-engine)| A real-time fluid simulation engine | OpenMP, Shader, 3D Rendering  |
 |[CPU-Rasterizer](https://github.com/qntm1331/CPU-Rasterizer)| Pure CPU 3D graphics without GPU| 3D Graphics, Optimization |
 |[GPU-Raytracer](https://github.com/qntm1331/GPU-Raytracer)| Real-time rendering with AVX2/FMA | SIMD, AVX2, FMA, LLVM |
 |[reverb-debugger](https://github.com/qntm1331/reverb-debugger)| Time-travel debugger for LLVM IR - Step forward and backward through execution | LLVM, Clang |
