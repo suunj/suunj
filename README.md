@@ -15,7 +15,6 @@
 |[reverb-debugger](https://github.com/qntm1331/reverb-debugger)| Time-travel debugger for LLVM IR - Step forward and backward through execution | LLVM, Clang |
 |[llvm-obfuscator](https://github.com/qntm1331/llvm-obfuscator)| LLVM-based code obfuscator | LLVM, Clang |
 |[jit-runtime](https://github.com/qntm1331/jit-runtime)| JIT compiler using LLVM - Compile and execute code at runtime | LLVM, Clang |
-|[tiny_kvm]()| implement my own kernel | KVM API, Memory Mapping, x86 CPU mode, paging |
 
 ## Fuzzing
 
