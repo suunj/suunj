@@ -13,7 +13,6 @@
 |[CPU-Rasterizer](https://github.com/qntm1331/CPU-Rasterizer)| Pure CPU 3D graphics without GPU| 3D Graphics, Optimization |
 |[GPU-Raytracer](https://github.com/qntm1331/GPU-Raytracer)| Real-time rendering with AVX2/FMA | SIMD, AVX2, FMA, LLVM |
 |[reverb-debugger](https://github.com/qntm1331/reverb-debugger)| Time-travel debugger for LLVM IR - Step forward and backward through execution | LLVM, Clang |
-|[llvm-obfuscator](https://github.com/qntm1331/llvm-obfuscator)| LLVM-based code obfuscator | LLVM, Clang |
 |[jit-runtime](https://github.com/qntm1331/jit-runtime)| JIT compiler using LLVM - Compile and execute code at runtime | LLVM, Clang |
 
 ## Fuzzing
